@@ -1,0 +1,20 @@
+{
+  "name": "openswap-nomics",
+  "version": "1.0.0",
+  "description": "Api for nomics listing",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "graphql": "^16.0.1",
+    "graphql-request": "^3.6.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucio",
+  "license": "ISC"
+}
